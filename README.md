@@ -4,7 +4,7 @@
 <a href="https://github.com/Aral-549">
   <picture>
     <source type="image/webp" srcset="./assets/arshad_grain.webp">
-    <img src="./assets/arshad_grain.gif" width="760" alt="ARSHAD - CS Student @ MIT Manipal" style="border-radius: 6px; box-shadow: 0 4px 24px rgba(230,57,70,0.12);" />
+    <img src="./assets/arshad_grain.gif" width="760" alt="ARSHAD" style="border-radius: 6px; box-shadow: 0 4px 24px rgba(230,57,70,0.12);" />
   </picture>
 </a>
 
