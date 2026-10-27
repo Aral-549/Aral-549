@@ -1,28 +1,42 @@
 <div align="center">
 
-<!-- Grainy Shimmering Bloody ARSHAD Title Banner -->
+<!-- Grainy Shimmering Bloody ARSHAD Title Banner (True-Color WebP) -->
 <a href="https://github.com/Aral-549">
-  <img src="./assets/arshad_grain.gif" width="760" alt="ARSHAD - CS Student @ MIT Manipal" style="border-radius: 4px;" />
+  <picture>
+    <source type="image/webp" srcset="./assets/arshad_grain.webp">
+    <img src="./assets/arshad_grain.gif" width="760" alt="ARSHAD - CS Student @ MIT Manipal" style="border-radius: 6px; box-shadow: 0 4px 24px rgba(230,57,70,0.12);" />
+  </picture>
 </a>
 
-<!-- Be of Dao Point-Cloud 3D Animation -->
+<br/><br/>
+
+<!-- Be of Dao Point-Cloud 3D Animation (High-Definition WebP HUD Card) -->
+<a href="https://gather.be-of-dao.com/" target="_blank">
+  <picture>
+    <source type="image/webp" srcset="./assets/dao_animation.webp">
+    <img src="./assets/dao_animation.gif" width="760" alt="Be of DAO 3D Particle Scan" style="border-radius: 8px; border: 1px solid rgba(230,57,70,0.35); box-shadow: 0 8px 32px rgba(0,0,0,0.85);" />
+  </picture>
+</a>
+
 <p align="center">
-  <img src="./assets/dao_animation.gif" width="760" alt="Be of DAO 3D Particle Scan" style="border-radius: 4px;" />
+  <a href="https://gather.be-of-dao.com/" target="_blank" style="text-decoration: none;">
+    <code>[ 聚 3D MONOCULAR DEPTH // GATHER LITE ENGINE ]</code>
+  </a>
 </p>
 
 <!-- Circular Crimson & Shadow Socials -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shaik-arshad-ali-45483930b" target="_blank">
-    <img src="./assets/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="./assets/linkedin.svg" width="42" height="42" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/SR2449179919432" target="_blank">
-    <img src="./assets/x.svg" width="40" height="40" alt="X" />
+    <img src="./assets/x.svg" width="42" height="42" alt="X" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shaikali51449@gmail.com" target="_blank">
-    <img src="./assets/gmail.svg" width="40" height="40" alt="Gmail" />
+    <img src="./assets/gmail.svg" width="42" height="42" alt="Gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aral-549" target="_blank">
-    <img src="./assets/github.svg" width="40" height="40" alt="GitHub" />
+    <img src="./assets/github.svg" width="42" height="42" alt="GitHub" />
   </a>
 </p>
 
