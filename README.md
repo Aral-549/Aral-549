@@ -1,46 +1,67 @@
+<div align="center">
+
 ```
-    ___              __              __   ___    ___
-   /   |  __________/ /_  ____ _____/ /  /   |  / (_)
-  / /| | / ___/ ___/ __ \/ __ `/ __  /  / /| | / / /
- / ___ |/ /  (__  ) / / / /_/ / /_/ /  / ___ |/ / /
-/_/  |_/_/  /____/_/ /_/\__,_/\__,_/  /_/  |_/_/_/
-```
-
-```yaml
-$ cat about.txt
----
-name     : Shaik Arshad Ali
-handle   : Aral-549
-role     : CS Student
-location : India
-stack    : Next.js, Django, PostgreSQL, TypeScript, Python, Solidity
-focus    : Voice-first apps, AI memory systems, hackathon projects
-status   : Open to internships and open-source collaboration
----
-```
-
----
-
-### terminal
-
-```bash
-$ neofetch --stack
-
-arshad@github
---------------
-OS       : CS Student @ MAHE
-Shell    : TypeScript / Python / Solidity
-Uptime   : since Jun 2025
-Repos    : 18 public
-Commits  : 281+
-Stack    : Next.js / Django / PostgreSQL
-Editor   : VS Code
-Interest : Voice AI, Web3, Defense Tech, Healthcare AI
+                                                                              
+                         .:                                                   
+                        .:::                                                  
+                       .:::::.                                                
+                      .:::::::::                                              
+                    .:::::::::::.                                             
+                   .:::::::::::::                                             
+                  .::::::-::::::::.                                            
+                .:::::::. .::::::::.                                           
+              .::::::::.   .::::::::                                          
+             .::::::::      .::::::::.                                        
+           .::::::::          .::::::::.                                       
+          .:::::::              .::::::::.                                     
+        .::::::::                .::::::::                                    
+       ::::::::                    ::::::::                                   
+      ::::::::                      ::::::::                                  
+                                                                              
+        T H E   S H A D O W S   O B E Y                                      
+                                                                              
 ```
 
+```
+ ▄▄▄       ██▀███    ██████  ██░ ██  ▄▄▄      ▓█████▄ 
+▒████▄    ▓██ ▒ ██▒▒██    ▒ ▓██░ ██▒▒████▄    ▒██▀ ██▌
+▒██  ▀█▄  ▓██ ░▄█ ▒░ ▓██▄   ▒██▀▀██░▒██  ▀█▄  ░██   █▌
+░██▄▄▄▄██ ▒██▀▀█▄    ▒   ██▒░▓█ ░██ ░██▄▄▄▄██ ░▓█▄   ▌
+ ▓█   ▓██▒░██▓ ▒██▒▒██████▒▒░▓█▒░██▓ ▓█   ▓██▒░▒████▓ 
+ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒▒▓  ▒ 
+  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒  ░ ░ ▒ ░▒░ ░  ▒   ▒▒ ░ ░ ▒  ▒ 
+  ░   ▒     ░░   ░ ░  ░  ░   ░  ░░ ░  ░   ▒    ░ ░  ░ 
+      ░  ░   ░           ░   ░  ░  ░      ░  ░   ░    
+                                               ░      
+```
+
+</div>
+
 ---
 
-### tech
+<div align="center">
+
+*"The Nightmare grows stronger. So do I."*
+
+</div>
+
+---
+
+```
+ [ASPECT] .............. CS Student
+ [TRUE NAME] ........... Shaik Arshad Ali
+ [SHADOW NAME] ......... Aral-549
+ [RANK] ................ Aspiring Ascended
+ [FLAW] ................ Builds too many things at hackathons
+ [CORE] ................ Next.js | Django | PostgreSQL
+ [ASPECT ABILITIES] .... TypeScript, Python, Solidity, Docker
+ [SOUL SEA] ............ Voice AI, Web3, Defense Tech, Healthcare
+ [STATUS] .............. Seeking new trials (internships)
+```
+
+---
+
+### // MEMORIES (equipped)
 
 <div align="center">
 
@@ -58,45 +79,61 @@ Interest : Voice AI, Web3, Defense Tech, Healthcare AI
 
 ---
 
-### projects
+### // SHADOW FRAGMENTS (projects)
 
 ```
-+---------------------------+---------------------------+
-|  chess.voice              |  engram                   |
-|  Tournament chess by      |  Cross-app AI memory on   |
-|  voice, built for blind   |  Monad -- agents ask,     |
-|  players. AssemblyAI +    |  your vault answers.      |
-|  deterministic engine.    |  Passkey-secured.         |
-|                           |                           |
-|  [TypeScript]             |  [TypeScript] [Solidity]  |
-+---------------------------+---------------------------+
-|  dogfood-portal           |  aushadh-grid             |
-|  Internal testing and     |  Federated AI for PHC     |
-|  QA portal built with     |  medicine supply chains.  |
-|  Python.                  |  Code for Communities.    |
-|                           |                           |
-|  [Python]                 |  [HTML] [Python]          |
-+---------------------------+---------------------------+
+  ____________________________________________________________________
+ |                                                                    |
+ |  [SAINT]  chess.voice                                              |
+ |  ................................................................  |
+ |  Tournament chess played entirely by voice.                        |
+ |  Built for blind players. AssemblyAI + deterministic engine.       |
+ |  Rank: Ascended    |    Core: TypeScript                           |
+ |____________________________________________________________________|
+
+  ____________________________________________________________________
+ |                                                                    |
+ |  [DEVIL]  engram                                                   |
+ |  ................................................................  |
+ |  Cross-app portable AI memory on Monad.                            |
+ |  Agents ask, your vault answers. Passkey-secured.                  |
+ |  Rank: Corrupted   |    Core: TypeScript, Solidity                 |
+ |____________________________________________________________________|
+
+  ____________________________________________________________________
+ |                                                                    |
+ |  [ECHO]   dogfood-portal                                           |
+ |  ................................................................  |
+ |  Internal testing and QA portal.                                   |
+ |  Built with Python.                                                |
+ |  Rank: Awakened    |    Core: Python                               |
+ |____________________________________________________________________|
+
+  ____________________________________________________________________
+ |                                                                    |
+ |  [DEMON]  aushadh-grid                                             |
+ |  ................................................................  |
+ |  Federated AI for PHC medicine supply chains.                      |
+ |  Code for Communities hackathon.                                   |
+ |  Rank: Fallen      |    Core: Python, HTML                         |
+ |____________________________________________________________________|
 ```
 
-> **[chess.voice](https://github.com/Aral-549/chess.voice)** -- voice-only chess for blind players
-> **[engram](https://github.com/Aral-549/engram)** -- portable AI memory on Monad
-> **[dogfood-portal](https://github.com/Aral-549/dogfood-portal)** -- internal testing portal
-> **[aushadh-grid](https://github.com/Aral-549/aushadh-grid)** -- federated AI for medicine supply chains
+> **[chess.voice](https://github.com/Aral-549/chess.voice)** | **[engram](https://github.com/Aral-549/engram)** | **[dogfood-portal](https://github.com/Aral-549/dogfood-portal)** | **[aushadh-grid](https://github.com/Aral-549/aushadh-grid)**
 
 ---
 
-### stats
+### // SOUL CORE (stats)
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aral-549&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aral-549&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aral-549&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4444&icon_color=ff4444&text_color=aaaaaa&bg_color=0d1117">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aral-549&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4444&icon_color=ff4444&text_color=aaaaaa&bg_color=0d1117" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aral-549&layout=compact&theme=github_dark&hide_border=true&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aral-549&layout=compact&hide_border=true&langs_count=8" height="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aral-549&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ff4444&text_color=aaaaaa&bg_color=0d1117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aral-549&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ff4444&text_color=aaaaaa&bg_color=0d1117" height="165" />
 </picture>
 
 </div>
@@ -104,36 +141,36 @@ Interest : Voice AI, Web3, Defense Tech, Healthcare AI
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Aral-549&theme=github-dark-blue&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aral-549&hide_border=true" width="560" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Aral-549&theme=dark&hide_border=true&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&background=0d1117&stroke=333333&sideLabels=aaaaaa&dates=555555&currStreakNum=dddddd&sideNums=dddddd">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aral-549&theme=dark&hide_border=true&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&background=0d1117" width="560" />
 </picture>
 
 </div>
 
 ---
 
-### contribution graph
+### // NIGHTMARE GRAPH
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=github-dark&hide_border=true&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&hide_border=true&area=true" width="860" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=ff4444&line=ff4444&point=ffffff&area_color=ff444433&bg_color=0d1117">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=ff4444&line=ff4444&point=ffffff&area_color=ff444433&bg_color=0d1117" width="860" />
 </picture>
 
 </div>
 
 ---
 
-### connect
-
-```
-  +----------+----------+----------+
-  | LinkedIn | X        | Email    |
-  +----------+----------+----------+
-```
+### // CONNECTIONS
 
 <div align="center">
+
+```
+  +--[ SIGNAL ]---+---[ SIGNAL ]---+---[ SIGNAL ]---+
+  |   LinkedIn    |       X        |     Gmail      |
+  +---------------+----------------+----------------+
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-arshad-ali-45483930b)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SR2449179919432)
@@ -146,9 +183,9 @@ Interest : Voice AI, Web3, Defense Tech, Healthcare AI
 <div align="center">
 
 ```
-$ echo "Currently looking for internships and cool projects to hack on."
+ "In the dark, I found my shadow. In the shadow, I found my strength."
 ```
 
-![](https://komarev.com/ghpvc/?username=Aral-549&style=flat-square&color=4c8eda&label=visitors)
+![](https://komarev.com/ghpvc/?username=Aral-549&style=flat-square&color=ff4444&label=souls+consumed)
 
 </div>
