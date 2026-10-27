@@ -137,25 +137,35 @@
 
 ### // SOUL CORE
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aral-549&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4444&icon_color=ff4444&text_color=aaaaaa&bg_color=0d1117">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aral-549&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ff4444&icon_color=ff4444&text_color=aaaaaa&bg_color=0d1117" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aral-549&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ff4444&text_color=aaaaaa&bg_color=0d1117">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aral-549&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ff4444&text_color=aaaaaa&bg_color=0d1117" height="165" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Aral-549&theme=dark&hide_border=true&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&background=0d1117&stroke=333333&sideLabels=aaaaaa&dates=555555&currStreakNum=dddddd&sideNums=dddddd">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aral-549&theme=dark&hide_border=true&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&background=0d1117" width="560" />
-</picture>
-
-</div>
+```
+  +====================================================================+
+  |                                                                    |
+  |   COMMITS .............. 285       STARS ............... 0         |
+  |   PULL REQUESTS ........ 6         ISSUES .............. 2         |
+  |   REPOS CONTRIBUTED .... 1         PUBLIC REPOS ........ 18        |
+  |   TOTAL CONTRIBUTIONS .. 497       SINCE ............... Jun 2025  |
+  |                                                                    |
+  +====================================================================+
+  |                                                                    |
+  |   TOP LANGUAGES                                                    |
+  |   ................................................................  |
+  |   TypeScript .... [################----------] 41.35%              |
+  |   HTML .......... [############--------------] 29.97%              |
+  |   Python ........ [########------------------] 19.68%              |
+  |   JavaScript .... [##------------------------] 3.98%               |
+  |   Solidity ...... [#-------------------------] 2.38%               |
+  |   CSS ........... [#-------------------------] 2.17%               |
+  |                                                                    |
+  +====================================================================+
+  |                                                                    |
+  |   STREAK                                                           |
+  |   ................................................................  |
+  |   Total Contributions ........... 497                              |
+  |   Current Streak ................ 1 day                            |
+  |   Longest Streak ................ 6 days (Sep 24 - Sep 29, 2025)  |
+  |                                                                    |
+  +====================================================================+
+```
 
 ---
 
