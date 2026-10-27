@@ -18,8 +18,6 @@
        ::::::::                    ::::::::                                   
       ::::::::                      ::::::::                                  
                                                                               
-        T H E   S H A D O W S   O B E Y                                      
-                                                                              
 ```
 
 ```
@@ -35,13 +33,11 @@
                                                ░      
 ```
 
-</div>
-
----
-
-<div align="center">
-
 *"The Nightmare grows stronger. So do I."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-arshad-ali-45483930b)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SR2449179919432)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikali51449@gmail.com)
 
 </div>
 
@@ -79,7 +75,7 @@
 
 ---
 
-### // SHADOW FRAGMENTS (projects)
+### // SHADOW FRAGMENTS
 
 ```
   ____________________________________________________________________
@@ -123,7 +119,7 @@
 
 ---
 
-### // SOUL CORE (stats)
+### // SOUL CORE
 
 <div align="center">
 
@@ -136,9 +132,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aral-549&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ff4444&text_color=aaaaaa&bg_color=0d1117" height="165" />
 </picture>
 
-</div>
-
-<div align="center">
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Aral-549&theme=dark&hide_border=true&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&background=0d1117&stroke=333333&sideLabels=aaaaaa&dates=555555&currStreakNum=dddddd&sideNums=dddddd">
@@ -157,24 +151,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=ff4444&line=ff4444&point=ffffff&area_color=ff444433&bg_color=0d1117">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=ff4444&line=ff4444&point=ffffff&area_color=ff444433&bg_color=0d1117" width="860" />
 </picture>
-
-</div>
-
----
-
-### // CONNECTIONS
-
-<div align="center">
-
-```
-  +--[ SIGNAL ]---+---[ SIGNAL ]---+---[ SIGNAL ]---+
-  |   LinkedIn    |       X        |     Gmail      |
-  +---------------+----------------+----------------+
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-arshad-ali-45483930b)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SR2449179919432)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikali51449@gmail.com)
 
 </div>
 
