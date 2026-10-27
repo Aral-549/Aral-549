@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated Typing Name Header -->
+<!-- Grainy Shimmering Bloody ARSHAD Title Banner -->
 <a href="https://github.com/Aral-549">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Shaik+Arshad+Ali;CS+Student+%40+MAHE;Full-Stack+Developer+%26+Hackathon+Builder;Voice+AI+%7C+Web3+%7C+Autonomous+Systems;The+Shadows+Obey.&font=Syncopate&center=true&width=720&height=55&color=E63946&vCenter=true&pause=1200&size=26&weight=700" alt="Shaik Arshad Ali" />
+  <img src="./assets/arshad_grain.gif" width="760" alt="ARSHAD - CS Student @ MIT Manipal" style="border-radius: 4px;" />
 </a>
 
 <!-- Be of Dao Point-Cloud 3D Animation -->
 <p align="center">
-  <img src="./assets/dao_animation.gif" width="720" alt="Be of DAO 3D Particle Scan" style="border-radius: 4px;" />
+  <img src="./assets/dao_animation.gif" width="760" alt="Be of DAO 3D Particle Scan" style="border-radius: 4px;" />
 </p>
 
 <!-- Circular Crimson & Shadow Socials -->
@@ -35,7 +35,7 @@
 </div>
 
 ```
- [ASPECT] .............. CS Student
+ [ASPECT] .............. CS Student @ MIT Manipal
  [TRUE NAME] ........... Shaik Arshad Ali
  [SHADOW NAME] ......... Aral-549
  [RANK] ................ Aspiring Ascended
