@@ -1,26 +1,24 @@
 <div align="center">
 
-<!-- Grainy Shimmering Bloody ARSHAD Title Banner (True-Color WebP) -->
+<!-- Grainy Bone-White Accumulation Typing ARSHAD Banner -->
 <a href="https://github.com/Aral-549">
-  <picture>
-    <source type="image/webp" srcset="./assets/arshad_grain.webp">
-    <img src="./assets/arshad_grain.gif" width="760" alt="ARSHAD" style="border-radius: 6px; box-shadow: 0 4px 24px rgba(230,57,70,0.12);" />
-  </picture>
+  <img src="./assets/arshad_grain.webp" width="760" alt="ARSHAD" style="border-radius: 6px; box-shadow: 0 4px 24px rgba(255,255,255,0.06);" />
 </a>
 
 <br/><br/>
 
 <!-- Be of Dao Point-Cloud 3D Animation (High-Definition WebP HUD Card) -->
 <a href="https://gather.be-of-dao.com/" target="_blank">
-  <picture>
-    <source type="image/webp" srcset="./assets/dao_animation.webp">
-    <img src="./assets/dao_animation.gif" width="760" alt="Be of DAO 3D Particle Scan" style="border-radius: 8px; border: 1px solid rgba(230,57,70,0.35); box-shadow: 0 8px 32px rgba(0,0,0,0.85);" />
-  </picture>
+  <img src="./assets/dao_animation.webp" width="760" alt="Be of DAO 3D Particle Point Cloud" style="border-radius: 8px; border: 1px solid rgba(230,57,70,0.35); box-shadow: 0 8px 32px rgba(0,0,0,0.85);" />
 </a>
 
 <p align="center">
   <a href="https://gather.be-of-dao.com/" target="_blank" style="text-decoration: none;">
     <code>[ 聚 3D MONOCULAR DEPTH // GATHER LITE ENGINE ]</code>
+  </a>
+  &nbsp;&nbsp;
+  <a href="./assets/dao_animation.mp4" target="_blank" style="text-decoration: none;">
+    <code>[ ▶ VIEW HD VIDEO RECORDING ]</code>
   </a>
 </p>
 
