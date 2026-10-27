@@ -1,39 +1,38 @@
 <div align="center">
 
-```
-                             . +                                    
-                       ....:::::::::::::::...       .               
-                 ...:::░░░░░░░░░░░░░░░░░░░░░░░:::..                 
-           .+  .:::░░░░░░░░░▒░▒░▒░▒░▒░▒░▒░░░░░░░░░:::.              
-            .::░░░░░░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░░░░░░::.           
-            :░░░░        ░▒                     ▒░▒░                
-        ▄▄▄   ░░  ██▀███    ██████  ██░ ██  ▄▄▄   ░▒ ▓█████▄        
-       ▒████▄    ▓██ ▒ ██▒▒██    ▒ ▓██░ ██▒▒████▄    ▒██▀ ██▌       
-       ▒██  ▀█▄  ▓██ ░▄█ ▒░ ▓██▄   ▒██▀▀██░▒██  ▀█▄  ░██   █▌ .+    
-    .. ░██▄▄▄▄██ ▒██▀▀█▄    ▒   ██▒░▓█ ░██ ░██▄▄▄▄██ ░▓█▄   ▌ :.   +
-     .  ▓█   ▓██▒░██▓ ▒██▒▒██████▒▒░▓█▒░██▓ ▓█   ▓██▒░▒████▓  :.    
-     .: ▒▒ ░ ▓▒█░░ ▒▓ ░▒▓░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒▒ ░ ▓▒█░ ▒▒▓  ▒ ░:.    
-     .:  ▒ ▒ ▒▒ ░  ░▒ ░ ▒░░ ░▒  ░ ░ ▒ ░▒░ ░  ▒ ▒ ▒▒ ░ ░ ▒  ▒ ░:.    
-     .:: ░ ░ ▒     ░░   ░ ░  ░  ░   ░  ░░ ░  ░ ░ ▒    ░ ░  ░ ::.   .
-   .  .:   ░ ░  ░   ░ ░         ░ ░ ░  ░  ░    ▒ ░  ░   ░    :.     
-       .::░░      ▒   ▒░▒░▒░▒░▒   ▒         ▒░▒░      ░   ░::.      
-        .::░░░░░░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░   ░░::.   +   
-      +   .::░░░░░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░░░░░::.         
-        . + .::░░░░░░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░▒░░░░░░::.           
-              +.:::░░░░░░░░░▒░▒░▒░▒░▒░▒░▒░░░░░░░░░:::.      .       
-                  ..:::░░░░░░░░░░░░░░░░░░░░░░░:::..   .             
-                   .  + ...:::::::::::::::...   .    +              
-```
+<!-- Animated Typing Name Header -->
+<a href="https://github.com/Aral-549">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shaik+Arshad+Ali;CS+Student+%40+MAHE;Full-Stack+Developer+%26+Hackathon+Builder;Voice+AI+%7C+Web3+%7C+Autonomous+Systems;The+Shadows+Obey.&font=Syncopate&center=true&width=720&height=55&color=E63946&vCenter=true&pause=1200&size=26&weight=700" alt="Shaik Arshad Ali" />
+</a>
 
-*"The Nightmare grows stronger. So do I."*
+<!-- Be of Dao Point-Cloud 3D Animation -->
+<p align="center">
+  <img src="./assets/dao_animation.gif" width="720" alt="Be of DAO 3D Particle Scan" style="border-radius: 4px;" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-arshad-ali-45483930b)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SR2449179919432)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikali51449@gmail.com)
+<!-- Circular Crimson & Shadow Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-arshad-ali-45483930b" target="_blank">
+    <img src="./assets/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/SR2449179919432" target="_blank">
+    <img src="./assets/x.svg" width="40" height="40" alt="X" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shaikali51449@gmail.com" target="_blank">
+    <img src="./assets/gmail.svg" width="40" height="40" alt="Gmail" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aral-549" target="_blank">
+    <img src="./assets/github.svg" width="40" height="40" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"The Nightmare grows stronger. So do I."</em>
+</p>
+
+<img src="./assets/line.gif" width="100%" height="6" />
 
 </div>
-
----
 
 ```
  [ASPECT] .............. CS Student
@@ -47,7 +46,7 @@
  [STATUS] .............. Seeking new trials (internships)
 ```
 
----
+<img src="./assets/line.gif" width="100%" height="6" />
 
 ### // MEMORIES (equipped)
 
@@ -65,7 +64,7 @@
 
 </div>
 
----
+<img src="./assets/line.gif" width="100%" height="6" />
 
 ### // SHADOW FRAGMENTS
 
@@ -109,7 +108,7 @@
 
 > **[chess.voice](https://github.com/Aral-549/chess.voice)** | **[engram](https://github.com/Aral-549/engram)** | **[dogfood-portal](https://github.com/Aral-549/dogfood-portal)** | **[aushadh-grid](https://github.com/Aral-549/aushadh-grid)**
 
----
+<img src="./assets/line.gif" width="100%" height="6" />
 
 ### // SOUL CORE
 
@@ -143,20 +142,20 @@
   +====================================================================+
 ```
 
----
+<img src="./assets/line.gif" width="100%" height="6" />
 
 ### // NIGHTMARE GRAPH
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=ff4444&line=ff4444&point=ffffff&area_color=ff444433&bg_color=0d1117">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=ff4444&line=ff4444&point=ffffff&area_color=ff444433&bg_color=0d1117" width="860" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=E63946&line=E63946&point=ffffff&area_color=E6394633&bg_color=0A0A0A">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aral-549&theme=high-contrast&hide_border=true&area=true&color=E63946&line=E63946&point=ffffff&area_color=E6394633&bg_color=0A0A0A" width="860" />
 </picture>
 
 </div>
 
----
+<img src="./assets/line.gif" width="100%" height="6" />
 
 <div align="center">
 
@@ -164,6 +163,6 @@
  "In the dark, I found my shadow. In the shadow, I found my strength."
 ```
 
-![](https://komarev.com/ghpvc/?username=Aral-549&style=flat-square&color=ff4444&label=souls+consumed)
+![](https://komarev.com/ghpvc/?username=Aral-549&style=flat-square&color=E63946&label=souls+consumed)
 
 </div>
